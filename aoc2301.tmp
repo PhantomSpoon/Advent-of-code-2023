@@ -71,7 +71,6 @@
               MOVE WS-SECOND-DIGIT TO WS-DIGITS-COMB(2:1)
               ADD WS-ADD-SUM TO WS-TOTAL-SUM
            END-PERFORM
-           DISPLAY 'SUMMA: ' WS-TOTAL-SUM
            .
 
        C-FIRST SECTION.
